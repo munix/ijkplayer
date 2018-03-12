@@ -17,6 +17,7 @@
             android:title="@string/pref_title_player"
             app:entrySummaries="@array/pref_entry_summaries_player" />
     </PreferenceCategory>
+
     <PreferenceCategory android:title="@string/pref_title_ijkplayer_video">
         <CheckBoxPreference
             android:defaultValue="false"
